@@ -13,12 +13,19 @@ VD:
 ##### Câu chủ đề 
 Nêu ra chủ đề của đoạn dựa vào câu tiêu đề ta đã viết ra trước.\
 VD: AI được xem là một trong những công nghệ cốt lõi của cuộc cách mạng 4.0 chính vì thế việc phát triển AI tại Việt Nam là điều cần thiết và đóng vai trò hết sức quan trọng.
-#### Câu thứ 2
+##### Câu thứ 2
 Lấy ý đầu tiên trong list điều muốn nói và triểu khai thành 1 câu.\
-VD: Tại Việt Nam, với sự quan tâm của nhiều tập đoàn AI đang dần được ứng dụng rộng rãi trong nhiều lĩnh vực như thương mại, y tế, giáo dục, sản xuất, giao thông,...\
-#### Câu thứ 3
+VD: Tại Việt Nam, với sự quan tâm của nhiều tập đoàn AI đang dần được ứng dụng rộng rãi trong nhiều lĩnh vực như thương mại, y tế, giáo dục, sản xuất, giao thông,...
+##### Câu thứ 3
 Lấy ý thứ 2 trong list điều muốn nói và triểu khai thành 1 câu.\
 VD: Tận dụng kinh nghiệm và học hỏi từ các quốc gia đang phát triển AI trên thế giới từ đó xây dụng một kế hoạch phát triển AI một cách dài hạn.\
-#### Câu thứ 4 
+##### Câu thứ 4 
+Lấy ý cuối cùng trong list điều muốn nói và triểu khai thành 1 câu.\
+VD: Đại dịch COVID-19 đã kìm hãm sự đi lên của nhiều lĩnh vực, tuy nhiên lại đẩy nhanh việc áp dụng trí tuệ nhân tạo (AI) vào các ngành: Tự động hóa, An ninh mạng và AIOps, AI hợp sức cùng IoT, AI cá nhân hóa cho marketing.
+
+
+
+
+
 
 
