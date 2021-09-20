@@ -25,6 +25,9 @@ VD: Đại dịch COVID-19 đã kìm hãm sự đi lên của nhiều lĩnh vự
 ##### Câu kết luận
 Đọc lại tất cả những gì vừa viết, những gì người đọc nên biết sau khi đọc chúng. Viết cuối cùng để tổng kết lại tất cả những gì đã viết.\
 VD: Nhìn chung, quá trình phát triển AI ở Việt Nam đang đi đúng lộ trình và đạt được nhiều thành quả nhất định, đó là tín hiệu đáng mừng của chúng ta trên con đường làm chủ AI.
+#### Đọc lại, chỉnh sửa và điều chỉnh khi cần thiết
+Là một bước tương đối quan trọng nhưng lại dễ bị bỏ qua. Đọc lại đoạn văn,đánh giá và chỉnh sửa sao cho câu văn hợp lý, mạch lạc sẽ giúp người đọc dễ dàng tiếp thu thông điệp mà ta truyền tải.
+--
 
 
 
