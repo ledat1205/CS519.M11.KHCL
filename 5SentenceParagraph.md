@@ -4,7 +4,7 @@
 #### Lên ý tưởng (brainstorm)
 Đầu tiên hãy nghĩ làm sao để có thể giải thích topic mà ta muốn viết về một cách ngắn gọn. Sau đó, hay viết những gì đã nghĩ ở dạng một tiêu đề.\
 VD: Làm sao để phát triển AI ở Việt Nam ?\
-Tiếp theo, hãy liệt kê 3 điều mà ta muốn nói về chủ đề, lưu lại dưới dạng list gồm 3 điều.
+Tiếp theo, hãy liệt kê 3 điều mà ta muốn nói về chủ đề, lưu lại dưới dạng list gồm 3 điều.\
 VD:
 1. Thực trạng AI tại Việt Nam.
 2. Kinh nghiệm quốc tế.
