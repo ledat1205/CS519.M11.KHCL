@@ -11,5 +11,9 @@ VD:
 3. Xu hướng phát triển AI hiện tại.
 #### Triển khai ý dựa theo cấu trúc của đoạn
 ##### Câu chủ đề 
-Nêu ra chủ đề của đoạn dựa vào câu tiêu đề ta đã viết ra trước. 
+Nêu ra chủ đề của đoạn dựa vào câu tiêu đề ta đã viết ra trước.\
+VD: AI được xem là một trong những công nghệ cốt lõi của cuộc cách mạng 4.0 chính vì thế việc phát triển AI tại Việt Nam là điều cần thiết và đóng vai trò hết sức quan trọng.
+#### Câu thứ 2
+Lấy ý đầu tiên trong list điều muốn nói và triểu khai thành 1 câu.\
+VD:
 
