@@ -1,6 +1,6 @@
-# 5 Sentence Paragraph là gì ?
-5 sentence paragraph là loại đoạn đầu tiên ta được học. Cách viết 5 sentence paragraph là cách viết cơ bản nhất và đó cũng là nền tảng để từ đó ta phát triển kỹ năng viết đoạn trong tương lai. Một 5 sentence paragraph gồm: 1 câu chủ đề nêu ý tưởng của đoạn; 3 câu tiếp theo với mục đích giải thích, làm rõ ý ở câu chủ đề; và cuối cùng là 1 câu kết luận. Với cấu trúc đó, tác giả có thể dễ dàng quản lý, tổ chức suy nghĩ, quan điểm của họ một cách mạch lạc, rõ ràng. Và cách trình bày thông tin đó cũng dễ dàng tiếp cận với người đọc, giúp người đọc dễ dàng nắm được nội dung mà tác giả muốn truyền tải.
-# Các bước để làm một 5 sentence paragraph:
+# 5 Sentence Paragraphs là gì ?
+5 sentence paragraphs là loại đoạn đầu tiên ta được học. Cách viết 5 sentence paragraphs là cách viết cơ bản nhất và đó cũng là nền tảng để từ đó ta phát triển kỹ năng viết đoạn trong tương lai. Một 5 sentence paragraphs gồm: 1 câu chủ đề nêu ý tưởng của đoạn; 3 câu tiếp theo với mục đích giải thích, làm rõ ý ở câu chủ đề; và cuối cùng là 1 câu kết luận. Với cấu trúc đó, tác giả có thể dễ dàng quản lý, tổ chức suy nghĩ, quan điểm của họ một cách mạch lạc, rõ ràng. Và cách trình bày thông tin đó cũng dễ dàng tiếp cận với người đọc, giúp người đọc dễ dàng nắm được nội dung mà tác giả muốn truyền tải.
+# Các bước để làm một 5 sentence paragraphs:
 #### Lên ý tưởng (brainstorm)
 Đầu tiên hãy nghĩ làm sao để có thể giải thích topic mà ta muốn viết về một cách ngắn gọn. Sau đó, hay viết những gì đã nghĩ ở dạng một tiêu đề.\
 VD: Làm sao để phát triển AI ở Việt Nam ?\
@@ -27,10 +27,8 @@ VD: Đại dịch COVID-19 đã kìm hãm sự đi lên của nhiều lĩnh vự
 VD: Nhìn chung, quá trình phát triển AI ở Việt Nam đang đi đúng lộ trình và đạt được nhiều thành quả nhất định, đó là tín hiệu đáng mừng của chúng ta trên con đường làm chủ AI.
 #### Đọc lại, chỉnh sửa và điều chỉnh khi cần thiết
 Là một bước tương đối quan trọng nhưng lại dễ bị bỏ qua. Đọc lại đoạn văn,đánh giá và chỉnh sửa sao cho câu văn hợp lý, mạch lạc sẽ giúp người đọc dễ dàng tiếp thu thông điệp mà ta truyền tải.
---
 
-
-
+Kỹ năng viết là một kỹ năng cần thiết trong nhiều lĩnh vực. Học kỹ năng viết 5 sentence paragrapph là một kỹ năng cơ bản mà từ đó để phát triển kỹ năng viết một bài luận. Cấu trúc của một bài luận cũng tương tự như 5 sentence paragraphs những với mỗi câu ta triển khai thành mỗi đoạn khác nhau. Suy cho cùng luyện tập cách viết 5 sentence paragraphs cũng là luyện tập cách sắp xếp và tổ chức những suy nghĩ về một ý tưởng nào đó. Tuy nhiên, kỹ năng viết chỉ được cải thiện thông qua thực hành nhiều. Hãy bắt đầu bằng việc viết 5 sentence paragraphs.
 
 
 
