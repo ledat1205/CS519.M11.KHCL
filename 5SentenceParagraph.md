@@ -26,7 +26,7 @@ VD: Đại dịch COVID-19 đã kìm hãm sự đi lên của nhiều lĩnh vự
 Đọc lại tất cả những gì vừa viết, những gì người đọc nên biết sau khi đọc chúng. Viết cuối cùng để tổng kết lại tất cả những gì đã viết.\
 VD: Nhìn chung, quá trình phát triển AI ở Việt Nam đang đi đúng lộ trình và đạt được nhiều thành quả nhất định, đó là tín hiệu đáng mừng của chúng ta trên con đường làm chủ AI.
 #### Đọc lại, chỉnh sửa và điều chỉnh khi cần thiết
-Là một bước tương đối quan trọng nhưng lại dễ bị bỏ qua. Đọc lại đoạn văn,đánh giá và chỉnh sửa sao cho câu văn hợp lý, mạch lạc sẽ giúp người đọc dễ dàng tiếp thu thông điệp mà ta truyền tải.
+Là một bước tương đối quan trọng nhưng lại dễ bị bỏ qua. Đọc lại đoạn văn, đánh giá và chỉnh sửa sao cho câu văn hợp lý, mạch lạc sẽ giúp người đọc dễ dàng tiếp thu thông điệp mà ta truyền tải.
 
 Kỹ năng viết là một kỹ năng cần thiết trong nhiều lĩnh vực. Học kỹ năng viết 5 sentence paragraphs là một kỹ năng cơ bản mà từ đó để phát triển kỹ năng viết một bài luận. Cấu trúc của một bài luận cũng tương tự như 5 sentence paragraphs những với mỗi câu ta triển khai thành mỗi đoạn khác nhau. Suy cho cùng luyện tập cách viết 5 sentence paragraphs cũng là luyện tập cách sắp xếp và tổ chức những suy nghĩ về một ý tưởng nào đó. Tuy nhiên, kỹ năng viết chỉ được cải thiện thông qua thực hành nhiều. Hãy bắt đầu bằng việc viết 5 sentence paragraphs.
 
