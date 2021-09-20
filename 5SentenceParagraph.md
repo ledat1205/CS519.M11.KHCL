@@ -3,4 +3,13 @@
 # Các bước để làm một 5 sentence paragraph:
 #### Lên ý tưởng (brainstorm)
 Đầu tiên hãy nghĩ làm sao để có thể giải thích topic mà ta muốn viết về một cách ngắn gọn. Sau đó, hay viết những gì đã nghĩ ở dạng một tiêu đề.\
-Tiếp theo, hãy liệt kê 3 điều mà ta muốn nói về chủ đề, lưu lại dưới dạng list gồm 3 điều.\
+VD: Làm sao để phát triển AI ở Việt Nam ?\
+Tiếp theo, hãy liệt kê 3 điều mà ta muốn nói về chủ đề, lưu lại dưới dạng list gồm 3 điều.
+VD:
+1. Thực trạng AI tại Việt Nam.\
+2. Kinh nghiệm quốc tế.\
+3. Xu hướng phát triển AI hiện tại.\
+#### Triển khai ý dựa theo cấu trúc của đoạn
+##### Câu chủ đề 
+Nêu ra chủ đề của đoạn dựa vào câu tiêu đề ta đã viết ra trước. 
+
